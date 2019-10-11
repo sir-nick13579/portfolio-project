@@ -1,7 +1,10 @@
+body{
+    font-family: 'comic Sans MS', sans-serif;
+}
 ul{
     list-style: none;
     display: flex;
-    justify-content:flex-end;
+    justify-content: space-around;
 }
 
 li {
@@ -10,4 +13,5 @@ li {
     margin-right: 55px;
     margin-left: 55px;
     margin-bottom: 15px;
+    
 }
